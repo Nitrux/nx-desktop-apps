@@ -44,7 +44,9 @@ kinfocenter
 sddm
 systemsettings
 
-#   = Other KDE or Qt Software =
+#    = Maui apps =
+
+#    = Other KDE or Qt Software =
 
 kdeconnect
 kmenuedit
@@ -53,7 +55,10 @@ qpdfview
 qps
 qt5-style-kvantum
 
-#   = VMetal Supporting bits =
+#    = Other Software =
+
+
+#    = VMetal Supporting bits =
 
 nitrux-vfio-enablement
 ipxe-qemu
@@ -61,7 +66,7 @@ libslirp0
 ovmf
 seabios
 
-#   = Supporting bits =
+#    = Supporting bits =
 
 cryptmount
 cryptsetup
