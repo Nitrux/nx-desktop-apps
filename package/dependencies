@@ -63,6 +63,9 @@ seabios
 
 #   = Supporting bits =
 
+cryptmount
+cryptsetup
+cryptsetup-run
 docker.io
 fakeroot
 flatpak
