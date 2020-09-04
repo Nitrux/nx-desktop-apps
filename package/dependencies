@@ -23,7 +23,6 @@ w3m
 
 axel
 curl
-git
 p7zip-full
 rsync
 unrar
@@ -40,7 +39,9 @@ nx-welcome-wizard
 ark
 kcalc
 kde-spectacle
+kdeconnect
 kinfocenter
+kmenuedit
 sddm
 systemsettings
 
@@ -48,8 +49,6 @@ systemsettings
 
 #    = Other KDE or Qt Software =
 
-kdeconnect
-kmenuedit
 nitroshare
 qpdfview
 qps
@@ -68,12 +67,8 @@ seabios
 
 #    = Supporting bits =
 
-cryptmount
-cryptsetup
-cryptsetup-run
+cgroupfs-mount
 docker.io
-fakeroot
 flatpak
 gamemode
 linuxbrew-wrapper
-npm
