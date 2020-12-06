@@ -19,6 +19,7 @@ tree
 
 axel
 curl
+git
 p7zip-full
 rsync
 unrar
@@ -35,15 +36,16 @@ nx-welcome-wizard
 ark
 kcalc
 kde-spectacle
-kdeconnect
 kinfocenter
-kmenuedit
+sddm
 systemsettings
 
 #    = Maui apps =
 
 #    = Other KDE or Qt Software =
 
+kdeconnect
+kmenuedit
 nitroshare
 qpdfview
 qps
