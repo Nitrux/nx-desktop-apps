@@ -36,7 +36,10 @@ nx-welcome-wizard
 ark
 kcalc
 kde-spectacle
+kdeconnect
 kinfocenter
+kmenuedit
+ksysguard
 sddm
 systemsettings
 
@@ -44,9 +47,6 @@ systemsettings
 
 #    = Other KDE or Qt Software =
 
-kdeconnect
-kmenuedit
-ksysguard
 nitroshare
 qpdfview
 qt5-style-kvantum
