@@ -29,31 +29,18 @@ zip
 
 #    = NX Desktop Apps =
 
-nx-welcome-wizard
 
 #    = KDE Applications =
-
-ark
-kcalc
-kde-spectacle
-kdeconnect
-kinfocenter
-kmenuedit
-ksysguard
-sddm
-systemsettings
 
 #    = Maui apps =
 
 #    = Other KDE or Qt Software =
 
-nitroshare
-qpdfview
-qt5-style-kvantum
 
 #    = Other Software =
 
-nx-desktop-appimages
+nx-desktop-appimages-minimal
+slim
 
 #    = VMetal Supporting bits =
 
@@ -65,8 +52,4 @@ seabios
 
 #    = Supporting bits =
 
-cgroupfs-mount
-docker.io
-flatpak
 gamemode
-linuxbrew-wrapper
