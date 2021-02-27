@@ -36,15 +36,9 @@ zip
 
 #    = Other Software =
 
-nx-desktop-appimages-minimal
+nx-desktop-appimages-legacy-minimal
 
 #    = VMetal Supporting bits =
-
-nitrux-vfio-enablement
-ipxe-qemu
-libslirp0
-ovmf
-seabios
 
 #    = Supporting bits =
 
