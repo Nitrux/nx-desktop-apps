@@ -4,7 +4,6 @@
 #    = CLI Apps =
 
 cmus
-dc
 ftp
 hdparm
 htop
@@ -39,7 +38,7 @@ kde-spectacle
 kdeconnect
 kinfocenter
 kmenuedit
-ksysguard
+plasma-systemmonitor
 sddm
 systemsettings
 
@@ -48,7 +47,6 @@ systemsettings
 #    = Other KDE or Qt Software =
 
 nitroshare
-qpdfview
 qt5-style-kvantum
 
 #    = Other Software =
