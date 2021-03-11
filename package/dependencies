@@ -38,7 +38,7 @@ kde-spectacle
 kdeconnect
 kinfocenter
 kmenuedit
-plasma-systemmonitor
+ksysguard
 sddm
 systemsettings
 
@@ -55,16 +55,9 @@ nx-desktop-appimages
 
 #    = VMetal Supporting bits =
 
-nitrux-vfio-enablement
-ipxe-qemu
-libslirp0
-ovmf
-seabios
-
 #    = Supporting bits =
 
 cgroupfs-mount
 docker.io
 flatpak
 gamemode
-linuxbrew-wrapper
