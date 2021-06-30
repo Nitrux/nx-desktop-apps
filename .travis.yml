@@ -5,6 +5,7 @@ before_install:
 
 script:
   - sudo ./travis-build.sh
+  - ls -l
   - package_cloud push nitrux/repo/debian/trixie *.deb
 
 branches:
