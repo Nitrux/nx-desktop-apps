@@ -29,6 +29,7 @@ zip
 #    = NX Desktop Apps =
 
 nx-welcome-wizard
+nx-software-center
 
 #    = KDE Applications =
 
@@ -44,10 +45,13 @@ systemsettings
 
 #    = Maui apps =
 
+maui-apps
+
 #    = Other KDE or Qt Software =
 
 nitroshare
 qt5-style-kvantum
+touchegg-kde
 
 #    = Other Software =
 
