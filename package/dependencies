@@ -25,6 +25,7 @@ unrar
 unzip
 wget
 zip
+parted
 
 #    = NX Desktop Apps =
 
@@ -47,5 +48,3 @@ ovmf
 seabios
 
 #    = Supporting bits =
-
-gamemode
