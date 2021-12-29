@@ -48,3 +48,5 @@ ovmf
 seabios
 
 #    = Supporting bits =
+
+flatpak
