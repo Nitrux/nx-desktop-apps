@@ -19,14 +19,16 @@ tree
 
 axel
 curl
+flatpak
 git
 p7zip-full
+parted
+plocate
 rsync
 unrar
 unzip
 wget
 zip
-parted
 
 #    = NX Desktop Apps =
 
@@ -40,14 +42,5 @@ parted
 
 nx-desktop-appimages-minimal
 
-#    = VMetal Supporting bits =
-
-nitrux-vfio-enablement
-ipxe-qemu
-libslirp0
-ovmf
-seabios
-
 #    = Supporting bits =
 
-flatpak
