@@ -1,46 +1,10 @@
 # Comments start with a '#'.
 # Empty lines are ignored.
 
-#    = CLI Apps =
+#    = VMetal Supporting bits =
 
-cmus
-ftp
-hdparm
-htop
-links2
-mc
-micro
-ncdu
-nsnake
-tmate
-tree
-
-#    = CLI Utils =
-
-axel
-curl
-flatpak
-git
-p7zip-full
-parted
-plocate
-rsync
-unrar
-unzip
-wget
-zip
-
-#    = NX Desktop Apps =
-
-#    = KDE Applications =
-
-#    = Maui apps =
-
-#    = Other KDE or Qt Software =
-
-#    = Other Software =
-
-nx-desktop-appimages-minimal
-
-#    = Supporting bits =
-
+nitrux-vfio-enablement
+ipxe-qemu
+libslirp0
+ovmf
+seabios
