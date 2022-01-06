@@ -20,6 +20,7 @@ axel
 curl
 git
 p7zip-full
+pacstall
 rsync
 unrar
 unzip
@@ -29,17 +30,11 @@ zip
 #    = NX Desktop Apps =
 
 nx-welcome-wizard
-nx-software-center
+nx-software-center-git
 
 #    = KDE Applications =
 
-ark
-kcalc
 kde-spectacle
-kdeconnect
-kinfocenter
-kmenuedit
-plasma-systemmonitor
 sddm
 systemsettings
 
@@ -49,9 +44,10 @@ maui-apps-git
 
 #    = Other KDE or Qt Software =
 
+kdeconnect
+kmenuedit
+plasma-systemmonitor
 nitroshare
-qt5-style-kvantum
-touchegg-kde
 
 #    = Other Software =
 
@@ -59,17 +55,13 @@ nx-desktop-appimages
 
 #    = VMetal Supporting bits =
 
-nitrux-vfio-enablement
-ipxe-qemu
-libslirp0
-ovmf
-seabios
-
 #    = Supporting bits =
 
 cgroupfs-mount
 docker.io
+fakeroot
 flatpak
 gamemode
 linuxbrew-wrapper
+xdg-desktop-portal-kde
 touchegg-kde
