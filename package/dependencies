@@ -9,6 +9,7 @@ hdparm
 htop
 links2
 mc
+micro
 ncdu
 nsnake
 tmate
@@ -41,6 +42,7 @@ systemsettings
 #    = Maui apps =
 
 maui-apps-git
+sol-git
 
 #    = Other KDE or Qt Software =
 
