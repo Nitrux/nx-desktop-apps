@@ -60,6 +60,7 @@ nx-desktop-appimages
 #    = Supporting bits =
 
 cgroupfs-mount
+dnsproxy
 docker.io
 fakeroot
 flatpak
