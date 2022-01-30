@@ -61,7 +61,6 @@ nx-desktop-appimages
 
 cgroupfs-mount
 dnsproxy
-docker.io
 fakeroot
 flatpak
 gamemode
