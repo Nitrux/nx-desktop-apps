@@ -64,6 +64,5 @@ dnsproxy
 fakeroot
 flatpak
 gamemode
-linuxbrew-wrapper
 xdg-desktop-portal-kde
 touchegg-kde
