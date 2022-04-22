@@ -40,7 +40,8 @@ systemsettings
 
 #    = Maui apps =
 
-maui-appimages-git
+maui-apps-git
+sol-git
 
 #    = Other KDE or Qt Software =
 
