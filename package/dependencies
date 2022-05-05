@@ -21,7 +21,6 @@ axel
 curl
 git
 p7zip-full
-pacstall
 rsync
 unrar
 unzip
