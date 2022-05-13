@@ -29,8 +29,6 @@ zip
 
 #    = NX Desktop Apps =
 
-nx-welcome-wizard
-nx-software-center-git
 
 #    = KDE Applications =
 
@@ -40,8 +38,6 @@ systemsettings
 
 #    = Maui apps =
 
-maui-apps-git
-sol-git
 
 #    = Other KDE or Qt Software =
 
