@@ -3,16 +3,8 @@
 
 #    = CLI Apps =
 
-cmus
-ftp
-hdparm
-htop
-links2
-mc
 micro
 ncdu
-nsnake
-tmate
 tree
 
 #    = CLI Utils =
@@ -41,7 +33,6 @@ systemsettings
 
 #    = Other KDE or Qt Software =
 
-kdeconnect
 kmenuedit
 plasma-systemmonitor
 
@@ -54,9 +45,7 @@ nx-desktop-appimages
 #    = Supporting bits =
 
 cgroupfs-mount
-dnsproxy
 fakeroot
 flatpak
 gamemode
 xdg-desktop-portal-kde
-touchegg-kde
