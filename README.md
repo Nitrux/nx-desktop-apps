@@ -1,4 +1,4 @@
-# Nitrux Apps Desktop Meta package [![Build Status](https://travis-ci.org/Nitrux/nx-desktop-apps.svg?branch=master)](https://travis-ci.org/Nitrux/nx-desktop-apps)
+# Nitrux Apps Desktop Meta package
 
 This repository contains the source to create the `nx-desktop-apps` metapackage.
 
