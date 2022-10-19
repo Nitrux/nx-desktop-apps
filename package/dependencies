@@ -21,6 +21,7 @@ zip
 
 #    = NX Desktop Apps =
 
+nx-software-center-git
 
 #    = KDE Applications =
 
@@ -30,6 +31,8 @@ systemsettings
 
 #    = Maui apps =
 
+maui-apps-git
+maui-apps-extra-git
 
 #    = Other KDE or Qt Software =
 
