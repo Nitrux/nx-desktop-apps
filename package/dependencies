@@ -8,3 +8,4 @@ ipxe-qemu
 libslirp0
 ovmf
 seabios
+swtpm
