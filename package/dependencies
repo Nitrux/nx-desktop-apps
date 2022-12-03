@@ -48,7 +48,10 @@ nx-desktop-appimages
 #    = Supporting bits =
 
 cgroupfs-mount
+distrobox
+docker.io
 fakeroot
 flatpak
 gamemode
+swtpm
 xdg-desktop-portal-kde
