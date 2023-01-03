@@ -12,8 +12,11 @@ tree
 axel
 curl
 git
+inxi
 p7zip-full
 rsync
+ssh
+ssh-askpass
 unrar
 unzip
 wget
