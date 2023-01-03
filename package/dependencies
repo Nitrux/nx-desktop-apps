@@ -13,6 +13,7 @@ axel
 curl
 git
 inxi
+iotop
 p7zip-full
 rsync
 ssh
