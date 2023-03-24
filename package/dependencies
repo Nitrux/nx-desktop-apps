@@ -12,12 +12,8 @@ tree
 axel
 curl
 git
-inxi
-iotop
 p7zip-full
 rsync
-ssh
-ssh-askpass
 unrar
 unzip
 wget
@@ -36,7 +32,6 @@ systemsettings
 #    = Maui apps =
 
 maui-apps-git
-maui-apps-extra-git
 
 #    = Other KDE or Qt Software =
 
