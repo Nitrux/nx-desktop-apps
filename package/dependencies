@@ -9,3 +9,4 @@ libslirp0
 ovmf
 seabios
 swtpm
+qemu-system-data
